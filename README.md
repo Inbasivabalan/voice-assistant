@@ -3,19 +3,9 @@ Voice Assistant Project
 
 This is a voice assistant project built using Python. The application is designed to respond to voice commands and perform tasks based on those commands. The project uses the following libraries:
 
-tkinter==8.5: Python's standard GUI library for creating desktop applications
-pyttsx3==2.90: A Python text-to-speech library used to convert text to speech
+tkinter==8.5: Python's standard GUI library for creating desktop applications.
+pyttsx3==2.90: A Python text-to-speech library used to convert text to speech.
 speech_recognition==3.8.1: A Python library for performing speech recognition with support for several engines and APIs.
-
-
-**Requirements
-
-The following packages are required to run the project:
-
-Python 3.10
-tkinter==8.5
-pyttsx3==2.90
-speech_recognition==3.8.1
 
 
 You can install the packages by running the following command:
